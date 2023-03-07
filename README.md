@@ -1,2 +1,2 @@
-# Diary
-Diary
+# Note
+Note
